@@ -1,5 +1,4 @@
-The Online Grocery Store System, OGSS, developed to give grocery businesses a dedicated online system where customers can shop at their own convenience. The system gives both customers and delivery drivers a real-time dashboard where they can view pending deliveries and their status. New orders are automatically assigned to the drivers with an even distribution algorithm.
-
+The Employee Management System, EMS, provides all users to use of a blog form platform. The blog form allows all users to share information such as job-related articles, personal development resources, and personal reflections on blog posts. Admin can run the payroll application for all employees. Besides, the admin can create, edit, and delete employee accounts information. In addition to that, all users can create and edit their user information.
 
 Environment / Technologies ->
 Hibernate, Spring, Java, Log4J, HTML, CSS, Angular, JavaScript, SQL

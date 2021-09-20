@@ -9,6 +9,11 @@ The Employee Management System, EMS, provides all users to use of a blog form pl
 * JDBC
 * Spring Framework
 * REST
+
+## Features
+* It can take the data in the to store the employee information.
+* It can delete the data of the employee.
+* It can update the data which is stored.
 ### To-do
 * Construct the admin part for the application.
 
